@@ -4,7 +4,8 @@ export default function Document() {
   const meta = {
     title: 'Next.js Blog Starter Kit',
     description: 'Clone and deploy your own Next.js portfolio in minutes.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
+    image:
+      'https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/6221f66561b111688d9e4dfc_freelance-developer.jpg'
   }
 
   return (
